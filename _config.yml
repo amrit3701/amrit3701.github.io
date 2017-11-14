@@ -1,0 +1,37 @@
+title: Amritpal Singh
+email: amrit3701@gmail.com
+author: Amritpal Singh
+description: "A Singh's Blog"
+keywords: 'amritpal, singh, amrit3701, django developer, amritpal singh, python, wordpress developer, programmer, punjab, linux, ludhiana, web designer, programming, freecad, rebar, addon, reinforcement, gsoc, google summer of code'
+url: http://me.amritpals.com
+timezone: Asia/Kolkata
+twitter_username: amrit3701
+github_username: amrit3701
+
+links:
+  repo: 'https://github.com/amrit3701/amrit3701.github.io'
+  github: 'https://github.com/amrit3701'
+  linkedin: 'https://www.linkedin.com/in/amrit3701'
+  phone: '+917355887432'
+
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+paginate: 8
+paginate_path: /blog/:num
+
+plugins:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-mentions
+  - jemoji
+  - jekyll-gist
+
+exclude: 
+  - vendor
+  - LICENSE.md
+  - README.md
+

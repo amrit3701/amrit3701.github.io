@@ -9,39 +9,42 @@ permalink: /cv/
 Executive summary
 =================
 
--   With strong logical and mathematical foundation, I possess the ability to understand and work with confidence on complex real world applications. I use programming skills to automate things.
+With strong logical and mathematical foundation, I possess the ability to understand and work with confidence on complex real world applications. I use programming skills to automate things.
 
 Projects
 ========
 
 <ul>
-<li><a href="https://summerofcode.withgoogle.com/archive/2017/projects/6536382147198976"><b>Google Summer of Code-2017: Rebar Addon for FreeCAD</b></a> (<a href="https://github.com/amrit3701/FreeCAD-Reinforcement"><i>source code</i></a>) &mdash;  <i>Python, PySide, 2017</i><br>
-Worked on a Google Summer of Code (GSoC) project with FreeCAD (an open source organisation). This project is aimed at easing up the reinforcement process in the FreeCAD. In this project, list of rebars will be provided to user under Rebar tools in the form of dropdown. Using this project user will reinforcement rebars in the building.</li><br>
+<li><a href="https://summerofcode.withgoogle.com/archive/2017/projects/6536382147198976"><b>Google Summer of Code-2017: Rebar Addon for FreeCAD</b></a> (<a href="https://github.com/amrit3701/FreeCAD-Reinforcement"><i>source code</i></a>) &mdash;  <i>Python, PySide</i><br>
+Worked on a Google Summer of Code (GSoC) project with FreeCAD (an open source CAD software organisation). This project is purely related structural engineering, aimed at easing up the reinforcement process in the FreeCAD. For better user experience, list of basic shapes of rebars are implemented under Rebar tools in the form of dropdown. While normal users can use them in real world complex structures, the same codebase can be used as a platform for implementing advanced rebar shapes.</li><br>
 
-<li><a href="http://sim.amritpals.com"><b>SIM (Structure Information Modeling)</b></a> (<a href="https://github.com/GreatDevelopers/Sim"><i>source code</i></a>) &mdash; <i>C++, Flex, Bison, Django, 2017</i><br>
-This application intends to provide users with ability to store information of a structure and provide a full analysis of that structure. It also creates 2D drawings of building and also show 3D model of building on a web browser.
+<li><a href="http://sim.amritpals.com"><b>SIM (Structure Information Modeling)</b></a> (<a href="https://github.com/GreatDevelopers/Sim"><i>source code</i></a>) &mdash; <i>C++, Flex, Bison, Django</i><br>
+This application intends to provide users with the ability to store information of a structure and provide its full analysis. It also creates 2D drawings of a building (single or multi storey) and display its 3D model on a web browser.
 </li><br>
 
-<li><a href="https://luvldh.gdy.club"><b>"Love Ludhiana" WebApp</b></a> (<a href="https://github.com/amrit3701/LuvLdh-Webapp"><i>source code</i></a>) &mdash;  <i>Django, Facebook's Graph API, 2017</i><br>
-A contest app for Love Ludhiana event. Using this app user should participate in the event. </li><br>
+<li><a href="https://luvldh.gdy.club"><b>"Love Ludhiana" WebApp</b></a> (<a href="https://github.com/amrit3701/LuvLdh-Webapp"><i>source code</i></a>) &mdash;  <i>Django, Facebook's Graph API</i><br>
+A web app developed for "Love Ludhiana" contest. As per the contest rules, user has to upload the content only through this app. This app acts as a channel to upload image or PDF to contest's Facebook page.</li><br>
 
 
-<li><a href="https://github.com/FreeCAD/FreeCAD/commits?author=amrit3701"><b>Open Source contributions: Bug fixes</b></a><br>
-FreeCAD is an open-source parametric 3D modeling application, made primarily to design real-life objects. I have fixed several bugs in the FreeCAD regarding rebar object and also facilitates to a user for rebar distribution.</li>
+<li><a href="https://github.com/amrit3701/SageLaTeX/blob/master/shm.pdf"><b>SageLaTeX</b></a> (<a href="https://github.com/amrit3701/SageLaTeX"><i>source code</i></a>) &mdash;  <i>LaTeX, SageMath</i><br>
+Produced a dynamic document depicting Simple Harmonic Motion (SHM) differential equation using SageMath in LaTeX. Main feature of this mini project is, as the input changes, solution and graphs updates accordingly</li><br>
+
+<li><a href="https://github.com/FreeCAD/FreeCAD/pulls?q=is%3Apr+author%3Aamrit3701+is%3Aclosed"><b>Open Source contributions: Bug fixes</b></a><br>
+Enhanced FreeCAD's rebar object by providing several bug fixes. </li>
 
 </ul>
 
 Experience
 ==========
--   **Open source:** Under GSoC project, I participated several times in online discussion on implementation of new features with core developers of prestige open source organisations (FreeCAD and BRL-CAD).
+-   **Open source:** As a developer under GSoC project, I participated in several online discussions with core developers of FreeCAD and BRL-CAD on new features implementation.   
 
--   **Linux Administration:** I have written shell scripts to perform system admin tasks like creating and deleting accounts of the user. I set up firewall, install, remove, update packages and manages file system permissions for user and groups.
+-   **Linux administration:** Worked on shell scripts to perform system admin tasks such as creating and deleting accounts of users, setting up firewall, install, remove, update packages and manages file system permissions for user and groups.
 
--   **Website configuration and maintenance:** Website set on server, configured zone file and SSL certificate. Now, regularly maintaining the websites.
+-   **Website configuration and maintenance:** Website setup and maintenance tasks such as zone file configuration, domain name pointing, reverse proxy (if required) and setting up SSL certificate.
 
 Achievements
 ============
-- **Google Code-in 2017**, Mentor in BRL-CAD.
+- **Google Code-in 2017**, Mentor in BRL-CAD
 - **Google Summer of Code 2017**, Student in FreeCAD.
 - With significant contribution through bug fixes and **GSoC project**, I became one of the core developers of FreeCAD. [https://github.com/orgs/FreeCAD/people](https://github.com/orgs/FreeCAD/people)
 - One of the core developers of GreatDevelopers. [https://github.com/orgs/GreatDevelopers/people](https://github.com/orgs/GreatDevelopers/people)
@@ -50,10 +53,10 @@ Achievements
 Education
 =========
 
--	B.Tech (2014-2018), *Information Technology*, Guru Nanak Dev Engineering College, Ludhiana, Punjab
+-	B. Tech (2014 - 2018), *Information Technology*, Guru Nanak Dev Engineering College, Ludhiana, Punjab, India
 
 
--	*Higher Secondary Examination* (2014), Nanakana Sahib Public School, Punjab, India
+-	*Higher Secondary Education* (2014), Nanakana Sahib Public School, Punjab, India
 
 	
 -	*Matriculation* (2012), Nanakana Sahib Public School, Punjab, India
